@@ -1,2 +1,1 @@
-# myalexa
-This is the project on alexa using python
+I developed an Alexa using Python that captures the user's face and greets and then takes user commands and performs actions with a male voice, it can play songs, browse, and send WhatsApp messages according to the user's command.
